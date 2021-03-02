@@ -1,0 +1,16 @@
+/home/prashant/Documents/dotnet/myApp/bin/Debug/net5.0/myApp
+/home/prashant/Documents/dotnet/myApp/bin/Debug/net5.0/myApp.deps.json
+/home/prashant/Documents/dotnet/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/home/prashant/Documents/dotnet/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/home/prashant/Documents/dotnet/myApp/bin/Debug/net5.0/myApp.dll
+/home/prashant/Documents/dotnet/myApp/bin/Debug/net5.0/ref/myApp.dll
+/home/prashant/Documents/dotnet/myApp/bin/Debug/net5.0/myApp.pdb
+/home/prashant/Documents/dotnet/myApp/obj/Debug/net5.0/myApp.csprojAssemblyReference.cache
+/home/prashant/Documents/dotnet/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/prashant/Documents/dotnet/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/home/prashant/Documents/dotnet/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/home/prashant/Documents/dotnet/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/home/prashant/Documents/dotnet/myApp/obj/Debug/net5.0/myApp.dll
+/home/prashant/Documents/dotnet/myApp/obj/Debug/net5.0/ref/myApp.dll
+/home/prashant/Documents/dotnet/myApp/obj/Debug/net5.0/myApp.pdb
+/home/prashant/Documents/dotnet/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache
